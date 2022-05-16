@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T07:05:51.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="QyM-uG6E7UHsOCyDMkka" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T07:28:42.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="HsWfI458DEwQBzKjZnuN" version="18.0.3" type="github">
   <diagram id="L_JVbjburUr9eJJ5l-_N" name="Page-1">
     <mxGraphModel dx="3552" dy="2612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -466,7 +466,7 @@
           <mxGeometry x="1300" y="1664" width="660" height="180" as="geometry" />
         </mxCell>
         <mxCell id="r4jLRAtJQ0jfJ7nczoAs-101" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;五、证书管理&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="5340" width="160" height="30" as="geometry" />
+          <mxGeometry x="-720" y="5110" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r4jLRAtJQ0jfJ7nczoAs-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -522,6 +522,93 @@
         </mxCell>
         <mxCell id="r4jLRAtJQ0jfJ7nczoAs-114" value="GetInstalledCertificateIds.conf&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;status&quot;:&quot;Accepted Or NofFount&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;certificateHashDataChain&quot;:{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;certificateType&quot;:&quot;证书类别,V2GRoot Or MORoot Or V2GChain&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;certificateHashData&quot;:{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;hashAlgorithm&quot;:&quot;SHA256 Or SHA384 Or SHA512&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;issuerNameHash&quot;:&quot;String&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;issuerKayHash&quot;:&quot;String&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;serialNumber&quot;:&quot;证书序列号&quot;&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;childCertificateHashData&quot;:{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;hashAlgorithm&quot;:&quot;SHA256 Or SHA384 Or SHA512&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;issuerNameHash&quot;:&quot;String&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;issuerKayHash&quot;:&quot;String&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;serialNumber&quot;:&quot;证书序列号&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; }&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="87.99999999999994" y="5680" width="760" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-115" value="CenterSystem" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-239.5" y="6460" width="240" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-116" value="充电桩&lt;br&gt;(CPO)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="710" y="6450" width="240" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-117" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;2、删除证书&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-478.5" y="6650" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-118" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.349;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.007;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r4jLRAtJQ0jfJ7nczoAs-115" target="r4jLRAtJQ0jfJ7nczoAs-116">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10.499999999999545" y="6570" as="sourcePoint" />
+            <mxPoint x="638.5" y="6610" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-119" value="DeleteCertificate.req&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;certificateHashData&quot;:{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;hashAlgorithm&quot;:&quot;SHA256 Or SHA384 Or SHA512&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;issuerNameHash&quot;:&quot;String&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;issuerKayHash&quot;:&quot;String&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;serialNumber&quot;:&quot;证书序列号&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;}&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="37.99999999999994" y="6330" width="660" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-120" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.002;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.592;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="r4jLRAtJQ0jfJ7nczoAs-116" target="r4jLRAtJQ0jfJ7nczoAs-115">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="638.5" y="6705" as="sourcePoint" />
+            <mxPoint x="652.4200000000001" y="6666.9299999999985" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-121" value="DeleteCertificate.conf&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;status&quot;:&quot;Accpted Or Failed Or NotFound&quot;&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="69.99999999999994" y="6730" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-122" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;3、安装根CA证书&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-478.5" y="7680" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-123" value="CenterSystem" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-239" y="7510" width="240" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-124" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.006;exitY=0.372;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.372;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r4jLRAtJQ0jfJ7nczoAs-123" target="r4jLRAtJQ0jfJ7nczoAs-125">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="49.99999999999993" y="7670.970000000001" as="sourcePoint" />
+            <mxPoint x="600" y="7670" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-125" value="充电桩&lt;br&gt;(CPO)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="725" y="7510" width="240" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-127" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.013;exitY=0.609;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r4jLRAtJQ0jfJ7nczoAs-125" target="r4jLRAtJQ0jfJ7nczoAs-123">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="639.02" y="7770" as="sourcePoint" />
+            <mxPoint x="40" y="7770" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-128" value="InstallCertificate.req&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;certificateType&quot;:&quot;V2GRootCertificate Or MORootCertificate&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;certificate&quot;:&quot;String&quot;&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="29.999999999999943" y="7510" width="680" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-129" value="InstallCertificate.conf{&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;status&quot;:&quot;Accepted Or Rejected Or Failed&quot;&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="29.999999999999943" y="7790" width="490" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-130" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;4、获得OCSP响应&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="8650" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-131" value="CenterSystem" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="8460" width="240" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-132" value="充电桩&lt;br&gt;(CPO)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="740" y="8440" width="240" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-133" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.326;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.368;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r4jLRAtJQ0jfJ7nczoAs-131" target="r4jLRAtJQ0jfJ7nczoAs-132">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="16.7199999999996" y="8610" as="sourcePoint" />
+            <mxPoint x="700" y="8610" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-134" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.01;entryY=0.694;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="r4jLRAtJQ0jfJ7nczoAs-132" target="r4jLRAtJQ0jfJ7nczoAs-131">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="8770" as="sourcePoint" />
+            <mxPoint x="9.319999999999528" y="8764" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-135" value="GetCertificateStatus.req&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;ocspRequestData&quot;:{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;hashAlgorithm&quot;:&quot;SHA256 Or SHA384 Or SHA512&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;issuerNameHash&quot;:&quot;发行者名称散列值&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;issuerKayHash&quot;:&quot;发行者公钥散列值&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;serialNumber&quot;:&quot;证书序列号&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;responderURL&quot;:&quot;响应者url&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;}&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="49.99999999999994" y="8310" width="660" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="r4jLRAtJQ0jfJ7nczoAs-136" value="GetCertificateStatus.conf&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;status&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&quot;:&quot;Accepted Or Failed&quot;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="51.99999999999994" y="8880" width="360" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
