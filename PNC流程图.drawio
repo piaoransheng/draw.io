@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T08:35:00.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="-K-Phqji6yDJAFzhl_L2" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T09:55:04.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="Kvk2kQynzHLzAHcvn0-m" version="18.0.6" type="github">
   <diagram id="L_JVbjburUr9eJJ5l-_N" name="Page-1">
-    <mxGraphModel dx="2462" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4097" dy="2901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -609,6 +609,9 @@
         </mxCell>
         <mxCell id="r4jLRAtJQ0jfJ7nczoAs-136" value="GetCertificateStatus.conf&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;status&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&quot;:&quot;Accepted Or Failed&quot;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="59.419999999999945" y="8130" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Jx_OIi5DQd_2DGax42uZ-2" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;通用数据传输&amp;nbsp;&amp;nbsp;&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;messageId&quot;：&quot;Authorize(&lt;/span&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;授权&lt;/span&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;)&quot;、CertificateSignd(证书签名)、DeleteCertificate(删除证书)、Get15118EVCertificate(获取15118EV证书)、GetCertificateStatus(获取证书状态)、GetInstalledCertificateIds、InstallCertificate(安装证书)、SignCertificate(签名证书)、TriggerMessage(触发消息)&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;data&quot;:{ },&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;vendorId&quot;: &quot;固定值：org.openchargealliance.iso15118pnc&quot;&lt;br&gt;}&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-755.21" y="-850" width="2077.42" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
