@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2022-08-15T01:54:47.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="H5Qmen6H9lfzErIRuHBj" version="20.2.3" type="github"><diagram id="kgvK-_pybiIHuWGEW8ii" name="Page-1">7Vrfk5s2EP5r9JgOQhI/HsHGyUPSaXOTuaZvxCiGBBsPxrHdvz6SEAYJ+c51DsP0OuOZW1YrIX3a1X7aA6DZ+vi2jLfphyKhObCt5AjQHNg2dBBhf7jmVGs8aNeKVZkl0qhVPGT/UKm0pHafJXSnGFZFkVfZVlUui82GLitFF5dlcVDNvha5+tZtvKI9xcMyzvvaxyypUrkK223172i2Sps3Q8evW9ZxYyxXskvjpDh0VCgCaFYWRVVL6+OM5hy8Bpe63+JC63liJd1U13R4f8xI8v73XRZ8/PTxzw+LzerN/I0c5Uec7+WCQeQDn/0sEDnAd0HogIgAj/3mIPJAiEHoy6aACGEG/AXvJW1YlzkIIrno6tQgWRb7TUL5ZCyAwkOaVfRhGy9564H5DtOl1TpnT5CJ/cU1M6VlRY8dlVzsW1qsaVWemIlsRQTXXaTnQSQ34tDuI2w2J+3soSN1sXSd1XnoFl0mSID/Bdh2H2wdJLpJAu617GmZx7tdtlRxUUGkx6z6i8u/Efn0WdpxeX7smM1PzcOGLaXTiT9+7ra13cRT0+/ijuyKfbmkz/tYFZcrWj1hJ7eLJkpE9ve3s3/EsH2NrqR5XGU/1Dg27al8wx9FxlbWuo9vKe6DXc0t6nXLXt240wbCUPVDG2sD1cD0BhIudl727V6HDSHOotYDwYJHNltmYApxtOhHcFqsv+x394leV4XfNkSvb9h9b6jgJa8zePGVweu+juBF+kADB68zlNfBjs+1HviM10HF51oX/N/ramdxtDPrVq8jtua+8DqvY34QnzpmW26wuzxhcmHCF+el2WOk2DOhnsGLhoBryF8EBBAEoUhbDqerLKN5C0FaWfIKQIBFaltwuaaowUw0LXhHbgxF+kOA5Qsms6zH8yARNkwOOuTXFwJWjBm9DWCHDl8c+aEqs60YDAs1Mwx57uUT9/jc6zF4BnaBH/KX16k4RGKVGHhYNFnceGqUGltjU2rf6Bw1pxkbLaJRGGSgMMgAFhoKLM8AVsMExwYLeRMDq6lTKGidw9fhB0o4/iVXzxTjw4aGYizT5slun7G8S49O/vgdVX6+3Dvfkke//Lu5DE+FsUCoHug+uY2xYEiUgYjuYC/Hk5+CVScJkUzKgcUzq+3kDL7wS8mkVXXe7onccLHfD92hbrhGDP/75amnXOfZyEXTilxbpWKOXlW6NXJ7Aw0cuYZ8wRkcy66WEEKeZmta7gVcE0LATinGiQNB9cfOwIho+Nl35MRGRA2VKl6dt8S1xuM3Fc8dHzaN7xHvfsTFiNq0Ki0WePlKyy+dfv6kT7+b63sEa254JW+5XGl56fPRVP6oT8P5BMMaX0FqTH4xWFhfKBBAkUxcXiLiVR8CvEj8F1MknMAaHUe9dkBMlRbrnlmlKUG+NnqIrjwg4bRudnp+dfRrw6380L33zc58tfPEj0cwOwybui0L4n5xduxQ1gmiO+B3COyx/aCk3oH2sxwU/QQ=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-15T01:54:59.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="SNDeSAbB9Jl8iKAvDJib" version="20.2.3" type="github">
+  <diagram id="kgvK-_pybiIHuWGEW8ii" name="Page-1">
+    <mxGraphModel dx="1635" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lxi5dLNsiARURQMFng-D-1" value="限时免费日期配置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lxi5dLNsiARURQMFng-D-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Lxi5dLNsiARURQMFng-D-1" target="Lxi5dLNsiARURQMFng-D-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="414" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lxi5dLNsiARURQMFng-D-4" value="是否免费?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="230" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lxi5dLNsiARURQMFng-D-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Lxi5dLNsiARURQMFng-D-4" target="Lxi5dLNsiARURQMFng-D-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="414" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lxi5dLNsiARURQMFng-D-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Lxi5dLNsiARURQMFng-D-4" target="Lxi5dLNsiARURQMFng-D-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="270" as="sourcePoint" />
+            <mxPoint x="520" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="270" />
+              <mxPoint x="560" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lxi5dLNsiARURQMFng-D-7" value="填写提交基本信息、营业时间、计费信息、Strip支付分账相关处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lxi5dLNsiARURQMFng-D-9" value="否" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="330" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lxi5dLNsiARURQMFng-D-8" value="是" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="330" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lxi5dLNsiARURQMFng-D-12" value="付款" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="330" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lxi5dLNsiARURQMFng-D-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Lxi5dLNsiARURQMFng-D-7" target="Hhx6lWk3t9lcu6jdW9rZ-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="411" y="495" as="sourcePoint" />
+            <mxPoint x="415" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hhx6lWk3t9lcu6jdW9rZ-1" value="审核&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="490" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hhx6lWk3t9lcu6jdW9rZ-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Hhx6lWk3t9lcu6jdW9rZ-1" target="Hhx6lWk3t9lcu6jdW9rZ-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="640" as="sourcePoint" />
+            <mxPoint x="415" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hhx6lWk3t9lcu6jdW9rZ-3" value="地图上展示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="355" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hhx6lWk3t9lcu6jdW9rZ-5" value="通过" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="580" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hhx6lWk3t9lcu6jdW9rZ-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Hhx6lWk3t9lcu6jdW9rZ-1" target="Hhx6lWk3t9lcu6jdW9rZ-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="470" as="sourcePoint" />
+            <mxPoint x="540" y="530" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hhx6lWk3t9lcu6jdW9rZ-7" value="不通过" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="490" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hhx6lWk3t9lcu6jdW9rZ-9" value="告知原因" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="500" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hhx6lWk3t9lcu6jdW9rZ-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Hhx6lWk3t9lcu6jdW9rZ-3" target="Hhx6lWk3t9lcu6jdW9rZ-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="680" as="sourcePoint" />
+            <mxPoint x="415" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hhx6lWk3t9lcu6jdW9rZ-11" value="充电与计费" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="355" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
