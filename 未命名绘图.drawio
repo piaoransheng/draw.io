@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T11:37:00.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="--gNJRNz66L_gIeydmJE" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-13T11:38:01.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="8obsC73WOzXzn5ACrRit" version="20.2.3" type="github">
   <diagram id="u-lC6ns9QtGNzlxNXnPt" name="第 1 页">
     <mxGraphModel dx="808" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             <mxPoint x="1009.5" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pm1I0I3YiPqy94Xw2DYR-53" value="否" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pm1I0I3YiPqy94Xw2DYR-51" target="pm1I0I3YiPqy94Xw2DYR-55">
+        <mxCell id="pm1I0I3YiPqy94Xw2DYR-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pm1I0I3YiPqy94Xw2DYR-51" target="pm1I0I3YiPqy94Xw2DYR-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1009.5" y="450" as="sourcePoint" />
             <mxPoint x="1010" y="470" as="targetPoint" />
@@ -52,6 +52,9 @@
             <mxPoint x="1019.5" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pm1I0I3YiPqy94Xw2DYR-78" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pm1I0I3YiPqy94Xw2DYR-71" target="pm1I0I3YiPqy94Xw2DYR-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pm1I0I3YiPqy94Xw2DYR-71" value="录入到设备基础信息表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="475" width="120" height="60" as="geometry" />
         </mxCell>
@@ -64,6 +67,9 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pm1I0I3YiPqy94Xw2DYR-77" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
