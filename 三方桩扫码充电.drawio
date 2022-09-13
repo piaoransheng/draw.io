@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" modified="2022-09-13T14:03:13.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="rPwrLK6_z9YhknnVJQYP" version="20.2.3" type="github">
+  <diagram id="u-lC6ns9QtGNzlxNXnPt" name="第 1 页">
+    <mxGraphModel dx="-19" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pm1I0I3YiPqy94Xw2DYR-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pm1I0I3YiPqy94Xw2DYR-79" target="pm1I0I3YiPqy94Xw2DYR-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pm1I0I3YiPqy94Xw2DYR-79" value="三方桩枪二维码" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1654" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pm1I0I3YiPqy94Xw2DYR-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pm1I0I3YiPqy94Xw2DYR-80" target="pm1I0I3YiPqy94Xw2DYR-82" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1714" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pm1I0I3YiPqy94Xw2DYR-80" value="扫码，根据内容去设备基础信息表查询" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1654" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pm1I0I3YiPqy94Xw2DYR-87" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pm1I0I3YiPqy94Xw2DYR-82" target="pm1I0I3YiPqy94Xw2DYR-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pm1I0I3YiPqy94Xw2DYR-95" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pm1I0I3YiPqy94Xw2DYR-82" target="pm1I0I3YiPqy94Xw2DYR-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pm1I0I3YiPqy94Xw2DYR-82" value="三方桩？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1654" y="335" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pm1I0I3YiPqy94Xw2DYR-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pm1I0I3YiPqy94Xw2DYR-84" target="pm1I0I3YiPqy94Xw2DYR-90" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1714" y="600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pm1I0I3YiPqy94Xw2DYR-84" value="场站是否开放校验" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1654" y="584.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pm1I0I3YiPqy94Xw2DYR-86" value="原有逻辑" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1870" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pm1I0I3YiPqy94Xw2DYR-90" value="进场控制校验" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1654" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pm1I0I3YiPqy94Xw2DYR-94" value="桩是否存在" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1654" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pm1I0I3YiPqy94Xw2DYR-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pm1I0I3YiPqy94Xw2DYR-94" target="pm1I0I3YiPqy94Xw2DYR-84" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1713.5" y="537.25" as="sourcePoint" />
+            <mxPoint x="1714" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
